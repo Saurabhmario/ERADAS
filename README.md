@@ -10,5 +10,6 @@ Requirements:
 Python 3.10
 ROS Kinetic Kame
 darknet_ROS
+YoloNas
 sort
 sudo pip install -r requirements.txt
