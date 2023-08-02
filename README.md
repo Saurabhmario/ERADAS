@@ -1,4 +1,4 @@
-# ERADAS
+# EERVIADS
 Enhancing Emergency Response Vehicle Interaction in Autonomous Driving Systems
 The primary objective of this project was to investigate the capabilities of an autonomous vehicle in detecting and safely responding to emergency vehicles using a combination of visual and onboard sensor data. The emergency vehicles considered in this study encompassed police, fire, hospital, and other emergency responders' vehicles. To achieve this objective, the autonomous vehicle needed to possess real-time and accurate environmental perception capabilities, enabling it to appropriately yield to emergency vehicles.
 
